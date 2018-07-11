@@ -1,0 +1,13 @@
+  USE_ADJOINT :=
+  USE_TANGENT :=
+  USE_REPRESENTER :=
+  USE_SEAICE :=
+  USE_CICE :=
+  USE_ROMS := on
+  USE_WRF :=
+  USE_SWAN := on
+  USE_REFDIF :=
+  USE_INWAVE :=
+  USE_ARPACK :=
+  USE_MCT := on
+  USE_ESMF :=
