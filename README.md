@@ -1,5 +1,5 @@
 Doxygen tool to generate the graphical documentation
- of COAWST. 
+ of COAWST. Plotting diagrams require installation of the graph visulaiztion kit **Graphviz** and adding it to system path.
 
 Thank you to Nishan Jain and Zafer Defne.
 
